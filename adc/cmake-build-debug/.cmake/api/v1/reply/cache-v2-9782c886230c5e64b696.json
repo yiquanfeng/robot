@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/project/adc/cmake-build-debug"
+			"value" : "c:/Users/quanfeng/Desktop/my-repo/adc/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -719,7 +719,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/project/adc/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/quanfeng/Desktop/my-repo/adc/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -779,7 +779,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/project/adc"
+			"value" : "C:/Users/quanfeng/Desktop/my-repo/adc"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1431,7 +1431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/project/adc/cmake-build-debug"
+			"value" : "C:/Users/quanfeng/Desktop/my-repo/adc/cmake-build-debug"
 		},
 		{
 			"name" : "adc_IS_TOP_LEVEL",
@@ -1455,7 +1455,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/project/adc"
+			"value" : "C:/Users/quanfeng/Desktop/my-repo/adc"
 		}
 	],
 	"kind" : "cache",

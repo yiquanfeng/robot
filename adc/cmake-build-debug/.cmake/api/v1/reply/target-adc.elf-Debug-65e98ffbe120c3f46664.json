@@ -151,23 +151,23 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Core/Inc"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/CMSIS/Include"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -282,23 +282,23 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Core/Inc"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "E:/project/adc/Drivers/CMSIS/Include"
+					"path" : "C:/Users/quanfeng/Desktop/my-repo/adc/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
@@ -323,7 +323,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=E:/project/adc/cmake-build-debug/adc.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/quanfeng/Desktop/my-repo/adc/cmake-build-debug/adc.map",
 				"role" : "flags"
 			},
 			{
@@ -348,7 +348,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "E:/project/adc/STM32F407ZGTX_FLASH.ld",
+				"fragment" : "C:/Users/quanfeng/Desktop/my-repo/adc/STM32F407ZGTX_FLASH.ld",
 				"role" : "flags"
 			}
 		],

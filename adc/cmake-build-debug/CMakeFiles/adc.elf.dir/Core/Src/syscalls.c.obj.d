@@ -1,5 +1,5 @@
 CMakeFiles/adc.elf.dir/Core/Src/syscalls.c.obj: \
- E:\project\adc\Core\Src\syscalls.c \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Src\syscalls.c \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\stat.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_ansi.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\newlib.h \

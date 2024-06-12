@@ -1,12 +1,13 @@
 CMakeFiles/adc.elf.dir/Core/Src/main.c.obj: \
- E:\project\adc\Core\Src\main.c E:\project\adc\Core\Inc/main.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal.h \
- E:\project\adc\Core\Inc/stm32f4xx_hal_conf.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_rcc.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_def.h \
- E:\project\adc\Drivers\CMSIS\Device\ST\STM32F4xx\Include/stm32f4xx.h \
- E:\project\adc\Drivers\CMSIS\Device\ST\STM32F4xx\Include/stm32f407xx.h \
- E:\project\adc\Drivers\CMSIS\Include/core_cm4.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Src\main.c \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Inc/main.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Inc/stm32f4xx_hal_conf.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_rcc.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_def.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Device\ST\STM32F4xx\Include/stm32f4xx.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Device\ST\STM32F4xx\Include/stm32f407xx.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Include/core_cm4.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdint.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\machine\_default_types.h \
@@ -14,32 +15,34 @@ CMakeFiles/adc.elf.dir/Core/Src/main.c.obj: \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_newlib_version.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_intsup.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\sys\_stdint.h \
- E:\project\adc\Drivers\CMSIS\Include/cmsis_version.h \
- E:\project\adc\Drivers\CMSIS\Include/cmsis_compiler.h \
- E:\project\adc\Drivers\CMSIS\Include/cmsis_gcc.h \
- E:\project\adc\Drivers\CMSIS\Include/mpu_armv7.h \
- E:\project\adc\Drivers\CMSIS\Device\ST\STM32F4xx\Include/system_stm32f4xx.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Include/cmsis_version.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Include/cmsis_compiler.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Include/cmsis_gcc.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Include/mpu_armv7.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\CMSIS\Device\ST\STM32F4xx\Include/system_stm32f4xx.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_rcc_ex.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_gpio.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_gpio_ex.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_exti.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_dma.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_dma_ex.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_cortex.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_adc.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_ll_adc.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_adc_ex.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ex.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ramfunc.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr_ex.h \
- E:\project\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
- E:\project\adc\Core\Inc/adc.h E:\project\adc\Core\Inc/main.h \
- E:\project\adc\Core\Inc/dma.h E:\project\adc\Core\Inc/usart.h \
- E:\project\adc\Core\Inc/gpio.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_rcc_ex.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_gpio.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_gpio_ex.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_exti.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_dma.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_dma_ex.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_cortex.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_adc.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_ll_adc.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_adc_ex.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ex.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_flash_ramfunc.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_pwr_ex.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Inc/adc.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Inc/main.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Inc/dma.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Inc/usart.h \
+ C:\Users\quanfeng\Desktop\my-repo\adc\Core\Inc/gpio.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\stdio.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\_ansi.h \
  e:\gcc-arm-none-eabi-10.3-2021.10-win32\gcc-arm-none-eabi-10.3-2021.10\arm-none-eabi\include\newlib.h \

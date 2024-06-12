@@ -120,7 +120,7 @@ int main(void)
           snprintf(buffer,5, "%d", aver);
           HAL_UART_Transmit(&huart1, buffer, 4, 0xff);
           flag=0;
-          HAL_Delay(100);
+          HAL_Delay(100);   
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

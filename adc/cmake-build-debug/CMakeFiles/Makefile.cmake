@@ -7,6 +7,11 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/Users/quanfeng/Desktop/my-repo/adc/CMakeLists.txt"
+  "CMakeFiles/3.27.8/CMakeASMCompiler.cmake"
+  "CMakeFiles/3.27.8/CMakeCCompiler.cmake"
+  "CMakeFiles/3.27.8/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.27.8/CMakeSystem.cmake"
   "E:/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeASMCompiler.cmake.in"
   "E:/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeASMInformation.cmake"
   "E:/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in"
@@ -102,11 +107,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "E:/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake"
   "E:/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Generic.cmake"
   "E:/CLion 2023.3.4/bin/cmake/win/x64/share/cmake-3.27/Modules/ProcessorCount.cmake"
-  "E:/project/adc/CMakeLists.txt"
-  "CMakeFiles/3.27.8/CMakeASMCompiler.cmake"
-  "CMakeFiles/3.27.8/CMakeCCompiler.cmake"
-  "CMakeFiles/3.27.8/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.27.8/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:

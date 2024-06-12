@@ -1207,8 +1207,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/project/adc/cmake-build-debug",
-		"source" : "E:/project/adc"
+		"build" : "C:/Users/quanfeng/Desktop/my-repo/adc/cmake-build-debug",
+		"source" : "C:/Users/quanfeng/Desktop/my-repo/adc"
 	},
 	"version" : 
 	{
